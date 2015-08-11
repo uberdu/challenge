@@ -1,4 +1,4 @@
-# Challenge
+# Coding Challenge
 
 ## External Libraries
 - **React.JS**, 
